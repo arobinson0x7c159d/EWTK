@@ -56,3 +56,4 @@ C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\EWTKServer\obj\R
 C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\EWTKServer\obj\Release\EWTKServer.dll
 C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\EWTKServer\obj\Release\EWTKServer.xml
 C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\EWTKServer\obj\Release\EWTKServer.pdb
+C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\EWTKServer\obj\Release\EWTKServer.vbprojResolveAssemblyReference.cache
