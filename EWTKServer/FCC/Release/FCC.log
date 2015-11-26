@@ -1,4 +1,4 @@
-﻿Build started 11/26/2015 12:53:11 AM.
+﻿Build started 11/26/2015 1:43:38 AM.
      1>Project "C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\FCC\FCC.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D FCC_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\FCC.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FCC.cpp
@@ -11,8 +11,12 @@
          Generating code
          Finished generating code
          FCC.vcxproj -> C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\Release\FCC.dll
+       PostBuildEvent:
+         copy /Y "..\Release\FCC.dll" "..\EWTKServer\bin\FCC.dll"
+         :VCEnd
+                 1 file(s) copied.
      1>Done Building Project "C:\Users\0X7C159D\Desktop\Efficient Web Toolkit\EWTK\EWTKServer\FCC\FCC.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.29
+Time Elapsed 00:00:00.60

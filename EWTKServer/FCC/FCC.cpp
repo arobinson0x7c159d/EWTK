@@ -11,5 +11,5 @@ FCC_API int nFCC=0;
 // This is an example of an exported function.
 extern FCC_API signed int __stdcall double_value(signed int input)
 {
-	return input * 2;
+	return input * 4;
 }
